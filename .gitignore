@@ -1,7 +1,9 @@
 # https://dart.dev/guides/libraries/private-files
 # Created by `dart pub`
 .DS_Store
+.agents/
 .dart_tool/
 .packages
 build/
 pubspec.lock
+skills-lock.json
